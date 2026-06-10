@@ -8,6 +8,7 @@ while True:
     print("1. Add Book")
     print("2. View Books")
     print("3. Exit")
+    print("Borrow book huzaifa")
 
     choice = input("Choice: ")
 
